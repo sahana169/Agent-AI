@@ -1,0 +1,15 @@
+{
+  "docstore": {
+    "61391cb5-d5ae-4d42-93f2-4a141e98bc3a": {
+      "data": "Sahana",
+      "entity_type": "PROPER",
+      "linked_memory_ids": [
+        "00a4bad2-10bb-4de2-9a21-d7a445803cbb"
+      ],
+      "user_id": "user_001"
+    }
+  },
+  "index_to_id": {
+    "0": "61391cb5-d5ae-4d42-93f2-4a141e98bc3a"
+  }
+}

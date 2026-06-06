@@ -1,0 +1,46 @@
+{
+  "docstore": {
+    "bc63a51a-d833-40a3-b646-2e8d48200d2e": {
+      "user_id": "user_001",
+      "data": "User named Sahana",
+      "text_lemmatized": "user name sahana",
+      "hash": "382bd601cbf66f28076b2fd16276d94f",
+      "created_at": "2026-06-06T14:27:38.483760+00:00",
+      "updated_at": "2026-06-06T14:27:38.483760+00:00",
+      "attributed_to": "user"
+    },
+    "e5bcf808-475e-4124-83e3-7988141f40f7": {
+      "user_id": "user_001",
+      "data": "Assistant greeting Sahana",
+      "text_lemmatized": "assistant greeting sahana",
+      "hash": "450640e1a81caa8b37c3d95945677b08",
+      "created_at": "2026-06-06T14:27:38.487301+00:00",
+      "updated_at": "2026-06-06T14:27:38.487301+00:00",
+      "attributed_to": "assistant"
+    },
+    "ed2c1acb-6706-4d86-9a3b-f4793a898f8a": {
+      "user_id": "user_001",
+      "data": "Assistant recalling Sahana's interest in trying out a new recipe and meal planning",
+      "text_lemmatized": "assistant recall recalling sahana interest try trying new recipe meal planning",
+      "hash": "8d3f5600940b487047c96683782aa046",
+      "created_at": "2026-06-06T14:28:16.896079+00:00",
+      "updated_at": "2026-06-06T14:28:16.896079+00:00",
+      "attributed_to": "assistant"
+    },
+    "c4b35530-cb50-4280-b83e-467dd48eabc6": {
+      "user_id": "user_001",
+      "data": "Sahana mentioned being a foodie and exploring different cuisines",
+      "text_lemmatized": "sahana mention foodie explore exploring different cuisine",
+      "hash": "275afcd5a19549a7b3cd9e9e6ae1f204",
+      "created_at": "2026-06-06T14:28:16.901466+00:00",
+      "updated_at": "2026-06-06T14:28:16.901466+00:00",
+      "attributed_to": "assistant"
+    }
+  },
+  "index_to_id": {
+    "0": "bc63a51a-d833-40a3-b646-2e8d48200d2e",
+    "1": "e5bcf808-475e-4124-83e3-7988141f40f7",
+    "2": "ed2c1acb-6706-4d86-9a3b-f4793a898f8a",
+    "3": "c4b35530-cb50-4280-b83e-467dd48eabc6"
+  }
+}

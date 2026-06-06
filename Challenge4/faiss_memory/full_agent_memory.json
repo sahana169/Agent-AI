@@ -1,0 +1,44 @@
+{
+  "docstore": {
+    "2a20358e-436c-4edd-a63c-bdf4bd0ce340": {
+      "user_id": "user_001",
+      "data": "Sahana was born in 2006",
+      "text_lemmatized": "sahana bear 2006",
+      "hash": "6ebd4d8ea865f0994762f135b04de458",
+      "created_at": "2026-06-06T14:33:54.600968+00:00",
+      "updated_at": "2026-06-06T14:33:54.600968+00:00",
+      "attributed_to": "assistant"
+    },
+    "00a4bad2-10bb-4de2-9a21-d7a445803cbb": {
+      "user_id": "user_001",
+      "data": "I have taken note of Sahana's birth year for future conversations",
+      "text_lemmatized": "take note sahana birth year future conversation",
+      "hash": "7f8dd3c07767a9bd078c60d806eb05af",
+      "created_at": "2026-06-06T14:33:54.605230+00:00",
+      "updated_at": "2026-06-06T14:33:54.605230+00:00",
+      "attributed_to": "assistant"
+    },
+    "e3c8f0a8-df2f-45a5-a972-983a0e1f7ee1": {
+      "user_id": "user_001",
+      "data": "The result of the calculation 2 ** 16 is 65,536",
+      "text_lemmatized": "result calculation 2 16",
+      "hash": "4ddb4d71e6ce4772a49dde02ee592b39",
+      "created_at": "2026-06-06T14:34:26.211023+00:00",
+      "updated_at": "2026-06-06T14:34:26.211023+00:00"
+    },
+    "c44bb049-1c79-4c9d-9aa5-1334702cc69c": {
+      "user_id": "user_001",
+      "data": "Sahana was born in 2006 and remembers this for future conversations",
+      "text_lemmatized": "sahana bear 2006 remember future conversation",
+      "hash": "e980050913320222c1b8ea4ddb04e740",
+      "created_at": "2026-06-06T14:34:26.213983+00:00",
+      "updated_at": "2026-06-06T14:34:26.213983+00:00"
+    }
+  },
+  "index_to_id": {
+    "0": "2a20358e-436c-4edd-a63c-bdf4bd0ce340",
+    "1": "00a4bad2-10bb-4de2-9a21-d7a445803cbb",
+    "2": "e3c8f0a8-df2f-45a5-a972-983a0e1f7ee1",
+    "3": "c44bb049-1c79-4c9d-9aa5-1334702cc69c"
+  }
+}

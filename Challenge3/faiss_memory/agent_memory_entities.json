@@ -1,0 +1,35 @@
+{
+  "docstore": {
+    "4a765764-8e20-4a74-a86e-f92505dddfc1": {
+      "data": "Sahana",
+      "entity_type": "PROPER",
+      "linked_memory_ids": [
+        "bc63a51a-d833-40a3-b646-2e8d48200d2e",
+        "e5bcf808-475e-4124-83e3-7988141f40f7",
+        "ed2c1acb-6706-4d86-9a3b-f4793a898f8a"
+      ],
+      "user_id": "user_001"
+    },
+    "8bad1e8d-e9d1-445c-92f5-91a52ff704fb": {
+      "data": "assistant greeting",
+      "entity_type": "COMPOUND",
+      "linked_memory_ids": [
+        "e5bcf808-475e-4124-83e3-7988141f40f7"
+      ],
+      "user_id": "user_001"
+    },
+    "e57576d7-928b-44d0-9727-ade3d9afbeeb": {
+      "data": "meal planning",
+      "entity_type": "COMPOUND",
+      "linked_memory_ids": [
+        "ed2c1acb-6706-4d86-9a3b-f4793a898f8a"
+      ],
+      "user_id": "user_001"
+    }
+  },
+  "index_to_id": {
+    "0": "4a765764-8e20-4a74-a86e-f92505dddfc1",
+    "1": "8bad1e8d-e9d1-445c-92f5-91a52ff704fb",
+    "2": "e57576d7-928b-44d0-9727-ade3d9afbeeb"
+  }
+}
